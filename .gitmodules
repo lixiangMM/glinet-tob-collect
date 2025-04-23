@@ -1,0 +1,9 @@
+[submodule "fcs850r"]
+	path = fcs850r
+	url = https://gerrit.gl-inet.net/fcs850r
+[submodule "bark-sync-pwm-led"]
+	path = bark-sync-pwm-led
+	url = http://gerrit.gl-inet.net/bark-sync-pwm-led
+[submodule "gl-sdk4-barksync-otg"]
+	path = gl-sdk4-barksync-otg
+	url = https://gerrit.gl-inet.net/gl-sdk4-barksync-otg
